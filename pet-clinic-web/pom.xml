@@ -12,10 +12,10 @@
 
     <artifactId>pet-clinic-web</artifactId>
 
-    <properties>
+    <!--properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
-    </properties>
+    </properties-->
     <dependencies>
         <dependency>
             <groupId>guru.springframework</groupId>

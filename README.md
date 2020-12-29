@@ -1,2 +1,2 @@
 # sfg-pet-clinic
-My version of Spring pet clinic imitating the SpringGuruFramework 
+My version of Spring pet clinic imitating the Spring Guru Framework 
